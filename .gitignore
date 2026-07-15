@@ -1,2 +1,18 @@
 venv/
 images/*.pkl
+
+# Large speech emotion dataset directories
+Crema/
+Ravdess/
+Savee/
+Tess/
+
+# Pretrained model checkpoints and downloads
+pretrained_models/
+wav2vec2_checkpoints/
+
+# System recordings folder (for live debugging inputs)
+recordings/
+
+# Temp/Backup typo files
+sppech.py

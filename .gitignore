@@ -16,3 +16,12 @@ recordings/
 
 # Temp/Backup typo files
 sppech.py
+
+# RAG Pipeline Outputs
+project/data/*.pdf
+project/vectorstore/
+
+# Python Cache
+__pycache__/
+*.pyc
+.env
